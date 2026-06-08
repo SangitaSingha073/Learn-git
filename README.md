@@ -1,5 +1,5 @@
 # Learn Git and Github
 
 ```Javascript
-console.log.out("Hello World !");
+console.log"Hello World !");
 ```
